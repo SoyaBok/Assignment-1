@@ -70,13 +70,13 @@ h1 {
     font-size: 55px;
  position: absolute;
  left: 300px;
- top: 1995px;
+ top: 2772px;
  color: white;    
 }
 .socks {
     position: absolute;
     left:900px;
-    top: 2075px
+    top: 2855px
 }
 
 .icon img {
@@ -99,4 +99,8 @@ h1 {
 }
 #ending {
     height: 250px;
+}
+.pro {
+    text-decoration: none;
+    color: black;
 }
